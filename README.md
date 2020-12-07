@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![CircleCI](https://circleci.com/gh/jungterry/devops-project-4.svg?style=svg&circle-token=40d2e69a9e1fc5e526bd0d44a1a61194c5016aba)](https://app.circleci.com/pipelines/github/jungterry/devops-project-4/2/workflows/47acebce-9b26-4342-8461-0b534c686f6b)
 
 ## Project Overview
 
